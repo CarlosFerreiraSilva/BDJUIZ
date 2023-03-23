@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaSQL_ASPNETMVC", "ProvaSQL_ASPNETMVC\ProvaSQL_ASPNETMVC.csproj", "{90681E39-85DA-4867-B763-41FF98DCF818}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90681E39-85DA-4867-B763-41FF98DCF818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90681E39-85DA-4867-B763-41FF98DCF818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90681E39-85DA-4867-B763-41FF98DCF818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90681E39-85DA-4867-B763-41FF98DCF818}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61200BCC-BD7B-4830-A726-3C1140FB769B}
+	EndGlobalSection
+EndGlobal
