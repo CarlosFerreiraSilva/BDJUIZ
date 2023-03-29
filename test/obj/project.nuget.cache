@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ATfYzKGdwdZHD/dfdLeG/oYWq/f56dKeEkY4SH/uxy2hj0silFY+xAmB5Nudh5vQGffyMTKQtw13tq4UuNO9gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nanny\\OneDrive\\Área de Trabalho\\Atividades do Curso\\test\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nanny\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

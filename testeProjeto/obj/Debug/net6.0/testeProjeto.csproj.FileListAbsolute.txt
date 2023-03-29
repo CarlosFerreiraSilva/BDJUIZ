@@ -1,0 +1,17 @@
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\bin\Debug\net6.0\testeProjeto.exe
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\bin\Debug\net6.0\testeProjeto.deps.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\bin\Debug\net6.0\testeProjeto.runtimeconfig.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\bin\Debug\net6.0\testeProjeto.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\bin\Debug\net6.0\testeProjeto.pdb
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\obj\Debug\net6.0\testeProjeto.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\obj\Debug\net6.0\testeProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\obj\Debug\net6.0\testeProjeto.AssemblyInfoInputs.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\obj\Debug\net6.0\testeProjeto.AssemblyInfo.cs
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\obj\Debug\net6.0\testeProjeto.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\obj\Debug\net6.0\testeProjeto.csproj.CopyComplete
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\obj\Debug\net6.0\testeProjeto.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\obj\Debug\net6.0\refint\testeProjeto.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\obj\Debug\net6.0\testeProjeto.pdb
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\obj\Debug\net6.0\testeProjeto.genruntimeconfig.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeProjeto\obj\Debug\net6.0\ref\testeProjeto.dll

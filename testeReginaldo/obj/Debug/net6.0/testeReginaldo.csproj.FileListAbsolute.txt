@@ -1,0 +1,17 @@
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\obj\Debug\net6.0\testeReginaldo.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\obj\Debug\net6.0\testeReginaldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\obj\Debug\net6.0\testeReginaldo.AssemblyInfoInputs.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\obj\Debug\net6.0\testeReginaldo.AssemblyInfo.cs
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\obj\Debug\net6.0\testeReginaldo.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\bin\Debug\net6.0\testeReginaldo.exe
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\bin\Debug\net6.0\testeReginaldo.deps.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\bin\Debug\net6.0\testeReginaldo.runtimeconfig.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\bin\Debug\net6.0\testeReginaldo.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\bin\Debug\net6.0\testeReginaldo.pdb
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\obj\Debug\net6.0\testeReginaldo.csproj.CopyComplete
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\obj\Debug\net6.0\testeReginaldo.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\obj\Debug\net6.0\refint\testeReginaldo.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\obj\Debug\net6.0\testeReginaldo.pdb
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\obj\Debug\net6.0\testeReginaldo.genruntimeconfig.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\test\testeReginaldo\obj\Debug\net6.0\ref\testeReginaldo.dll
